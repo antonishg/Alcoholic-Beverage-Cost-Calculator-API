@@ -1,5 +1,3 @@
-![Demo Animation](./assets/demo.gif?raw=true)
-
 # Alcoholic Beverage Price Calculator API
 This is the back end for the _Alcoholic Beverage Price Calculator_ found in:
 https://github.com/antonishg/Alcoholic-Beverage-Cost-Calculator
